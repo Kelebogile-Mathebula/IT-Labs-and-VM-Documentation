@@ -8,9 +8,13 @@ cybersecurity practice projects.
 All projects include:
 
 1.Objectives
+
 2.Tools used
+
 3.Configuration steps
+
 4.Screenshots
+
 5.Skills demonstrated
 
 I am actively seeking entry-level IT opportunities locally in South Africa and remote 
