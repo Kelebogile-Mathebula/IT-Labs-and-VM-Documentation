@@ -1,32 +1,32 @@
 Windows Virtual Machine Deployment
 Objective:
 
-To install and configure a Windows virtual machine in a virtualized environment.
+1)To install and configure a Windows virtual machine in a virtualized environment.
 
 Tools Used:
 
-VirtualBox
+1)VirtualBox
 
-Windows ISO
+2)Windows ISO
 
 Steps Performed:
 
-Created new virtual machine
+1)Created new virtual machine
 
-Allocated RAM and storage
+2)Allocated RAM and storage
 
-Installed operating system
+3)Installed operating system
 
-Configured basic network settings
+4)Configured basic network settings
 
-Verified connectivity
+5)Verified connectivity
 
 Skills Demonstrated:
 
-Virtualization fundamentals
+1)Virtualization fundamentals
 
-Operating system installation
+2)Operating system installation
 
-Basic network configuration
+3)Basic network configuration
 
-Technical documentation
+4)Technical documentation
