@@ -5,7 +5,7 @@ Objective:
 
 Tools Used:
 
-1)VirtualBox
+1)VirtualBox or Hyper-V
 
 2)Linux ISO
 
